@@ -1,0 +1,18 @@
+.button {
+  color: #092327;
+  background-color: #A599B5;
+  border: 1px solid #092327;
+  border-radius: 10%;
+  cursor: pointer;
+  font-weight: 450;
+  margin-right: 1.1rem;
+  padding: 1.1rem;
+  outline: none;
+  transition: background .5s ease;
+
+  &:hover {
+    background: #092327;
+    color: white;
+  }
+
+}
