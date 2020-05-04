@@ -1,0 +1,22 @@
+.post {
+  display: flex;
+  justify-content:space-between;
+}
+
+.post__topic {
+  font-size: 1.9rem;
+  font-weight: 600;
+  color: #092327;
+}
+
+.post__stats {
+  font-size: 1.4rem;
+  font-weight: 300;
+  font-style: italic;
+  color: #092327;
+
+}
+
+.post__actions {
+  flex-shrink: 0;
+}

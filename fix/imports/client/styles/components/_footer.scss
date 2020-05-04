@@ -1,0 +1,16 @@
+.footer {
+  background-color: #0B5351;
+  text-align: right;
+  color: white;
+  margin: 0 auto;
+  max-width: 80rem;
+  padding: 1.3rem;
+}
+
+.jokeDiv {
+  color: #0B5351;
+
+  &:hover {
+    color: white;
+  }
+}
